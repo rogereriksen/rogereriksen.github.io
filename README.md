@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## ERIKSENS CONSULTING AS
 
-You can use the [editor on GitHub](https://github.com/rogereriksen/rogereriksen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hei og velkommen til min enkle nettside.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Den 1. november 2020 startet jeg mitt eget konsulentselskap – enkeltpersonsforetaket Roger Eriksen Consulting.
 
-### Markdown
+Jeg leverer konsulentbistand i prosjekter innenfor Digitalisering, IT-strategi og Teknologirådgivning etter at min siste «baby» ble solgt til en ny eier som visste å sette pris på arbeidet vi har gjort, og skal ta verket til nye høyder i et globalt marked.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jeg har over 30 års erfaring fra IT-bransjen og har jobbet som leder, arkitekt, konsulent og rådgiver for selskaper og prosjekter knyttet til Digitalisering, IT-strategi og Programvareutvikling.
 
-```markdown
-Syntax highlighted code block
+Jeg har stor lidenskap for det som de seneste årene har vært jobben min – å bruke skyteknologi som tjeneste eller som en plattform for å utvikle nye tjenester for effektivisering og digital transformasjon.
 
-# Header 1
-## Header 2
-### Header 3
+Kontakt meg gjerne på roger@eriksens.io eller 909 48 146 så kan vi ta en uforpliktende prat for å se om jeg kan bidra i ditt prosjekt.
 
-- Bulleted
-- List
+Roger Eriksen
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rogereriksen/rogereriksen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
